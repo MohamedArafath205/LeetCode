@@ -10,3 +10,4 @@ class Solution(object):
 
 # Memory - 12.31 MB
 # RunTime - 5301 ms
+# Difficulty - Easy
